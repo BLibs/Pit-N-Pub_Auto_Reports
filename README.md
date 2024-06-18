@@ -26,7 +26,7 @@ This script downloads the attachments, extracts the PDF files, and forwards them
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/spoton-report-automation.git
+    git clone https://github.com/BLibs/spoton-report-automation.git
     ```
 2. Navigate to the project directory:
     ```sh
