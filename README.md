@@ -30,7 +30,7 @@ This script downloads the attachments, extracts the PDF files, and forwards them
     ```
 2. Navigate to the project directory:
     ```sh
-    cd spoton-report-automation
+    cd Pit-N-Pub_Auto_Reports
     ```
 3. Install the required dependencies:
     ```sh
