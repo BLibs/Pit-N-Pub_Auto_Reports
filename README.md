@@ -54,11 +54,11 @@ SMTP_PORT = your_smtp_port
 ## Usage 
 
 The script can either be ran directly as a Python file or compiled into an .exe with Pyinstaller
-1. Run the script to start the automation process:
+- Run the script to start the automation process:
     ```sh
     python main.py
     ```
-2. Compile the .exe which can then be ran in any environment, in my case as a scheduled task in Windows.
+- Compile the .exe which can then be ran in any environment, in my case as a scheduled task in Windows.
     ```sh
     pyinstaller --onefile --clean main.py
     ```
